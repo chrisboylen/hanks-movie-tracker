@@ -7,7 +7,10 @@ The main goal of this project was to learn about how to implement Redux and Reac
 
 Using Postgres as a backend, we set up a separate client-side application (use create-react-app), to sit alongside this one.
 
-Collaborators include [Chris Boyen](https://github.com/chrisboylen "Chris Boyen"), [Tom King](https://github.com/"tomkingkong") and [Megan Haubelt](https://github.com/Haub "Megan Haubelt").
+Collaborators include 
+  * [Chris Boyen](https://github.com/chrisboylen "Chris Boyen") 
+  * [Tom King](https://github.com/"tomkingkong")
+  * [Megan Haubelt](https://github.com/Haub "Megan Haubelt").
 
 ## Screenshots
 
